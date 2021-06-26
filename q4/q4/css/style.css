@@ -1,1 +1,39 @@
 @charset "UTF-8";
+.box {
+  display: table;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.b {
+  display: table-cell;
+  text-align: center;
+  padding: 20px;
+}
+.b1 {
+  background: #ff7b7b;
+  width: 300px;
+}
+.b2 {
+  background: #7b86ff;
+  /* max-width: 100%; */
+}
+.b3 {
+  background: #fff27b;
+  width: 300px;
+}
+.b4 {
+  background: #7bff91;
+  /* max-width: 100%; */
+}
+.b5 {
+  background: #ff7be2;
+  width: 400px;
+}
+.b6 {
+  background: #ffc67b;
+  width: 400px;
+}
+.b7 {
+  background: #7bf2ff;
+  /* max-width: 100%; */
+}
