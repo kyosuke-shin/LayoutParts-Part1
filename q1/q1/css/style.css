@@ -1,18 +1,18 @@
 @charset "UTF-8";
 /* 回答はここから */
-.w-box {
+.q1-1-upperrow, .q1-1-lowerrow {
   width: 200px;
   background: #fff;
   text-align: center;
   padding: 20px 0;
 }
-.q1-t {
+.q1-1-t {
   display: inline-block;
   font-size: 16px;
   background: #a4b3e9;
   padding: 10px;
 }
-.q1-m {
+.q1-1-m {
   font-size: 16px;
   background: #a4b3e9;
   width: 90px;
@@ -23,34 +23,32 @@
 .q1--perimeter {
   display: table;
 }
-.q1-tbox {
+.q1-2-tablebox {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
 }
-.q1-t {
+.q1-2-table {
   display: inline-block;
   background-color: #fff;
   font-size: 16px;
   padding: 10px;
 }
-
 .fbox {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.q1-f {
+.q1-2-flex {
   display: inline-block;
   background-color: #fff;
   font-size: 16px;
   padding: 10px;
 }
-
 .container {
   position: relative;
 }
-.q1-p {
+.q1-2-position {
   display: inline-block;
   background: #a4b3e9;
   padding: 10px;
